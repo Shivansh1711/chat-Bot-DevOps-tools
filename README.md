@@ -14,7 +14,7 @@ A **fully automated, reproducible DevOps pipeline** that deploys a **Streamlit-b
 The chatbot allows users to ask questions (e.g., "Explain Terraform"), view history, clear chat, and **download conversation logs**. All infrastructure and app deployment is **100% automated** and **idempotent**.
 
 > **Live Demo**: http://43.205.129.100:8501 (if instance is running)  
-> **Repo**: https://github.com/atul-harsh33108/just-simple-chatbot
+> **Repo**: https://github.com/Shivansh1711/chat-Bot-DevOps-tools
 
 ---
 
